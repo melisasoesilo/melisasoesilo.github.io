@@ -1,0 +1,87 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color:#4a4a4a
+    font-size: 24px;
+    font-family: Roboto-Mono-Regular;
+    background-color: white;
+    display: block;
+    height: 85px;
+    position: relative;
+    left: 30px;
+    float: left;
+}
+
+ul {
+    color: #4a4a4a;
+    font-size: 16px;
+    font-family: Roboto-Regular;
+    line-height: 1.6;
+    float: right;
+    display: inline-block;
+}
+
+.jumbotron p {
+    color: white;
+    line-height: 1.4;
+}
+
+#two {
+    font-size: 50px;
+    font-face: Rubik-Regular;
+}
+
+#three {
+    font-size: 20px;
+    font-face: Roboto-Regular;
+}
+
+#four {
+    font-size: 20px;
+    font-family: Roboto-Medium;
+}
+
+h5 {
+    color: #4a4a4a;
+    font-size: 36px;
+    font-family: Roboto-Bold;
+    line-height: 1.2;
+}
+
+#features p{
+    color: #4a4a4a;
+    font-size: 16px;
+    font-family: Roboto-Light;
+    line-height: 1.2;
+}
+
+h6 {
+    color: white;
+    opacity: 100%;
+    font-size: 36px;
+    font-family: Roboto-Bold;
+}
+
+.filters p {
+    color:white;
+    font-size: 16px;
+    font-family: Roboto-Light;
+    line-height: 1.4;
+}
+
+.reviews p {
+    color: #4a4a4a;;
+    font-size: 30px;
+    font-family: Palatino-Italic;
+    line-height: 1.1;
+}
+
+.footer p {
+    color: white;
+    font-size: 12px;
+    font-family: Roboto-Regular;
+}
+
